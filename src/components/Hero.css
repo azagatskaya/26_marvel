@@ -1,0 +1,22 @@
+.hero__wrapper{
+	width: 400px;
+	/* height: 600px; */
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	margin: 10px;
+}
+.hero__img{
+	width: 320px;
+	margin: 0 auto;
+}
+.hero__name{
+	margin: 10px 0 10px 0;
+	font-size: 20px;
+}
+.hero__info-title{
+	text-align: left;
+}
+.hero__info-title > span{
+	font-weight: bold;
+}
